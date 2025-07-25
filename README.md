@@ -13,20 +13,20 @@
 - 🧠 Passionate about data analysis, machine learning, and real-world problem solving  
 - 📈 Experience as Data Analyst Intern (e.g. at ACC - National Remarketing Division)  
 - 🛠️ Tools: Excel, Python (Pandas, NumPy, Matplotlib), SQL, R  
-- 🌱 Currently learning: Data Scientist
+- 🌱 Currently learning: Feature Engineering, Model Deployment, and Kaggle competitions  
 - 💡 I believe data has the power to tell stories and shape impactful decisions  
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
@@ -35,21 +35,21 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🏦 **Bank Marketing Prediction** | Predicts customer subscription using classification models | `Python`, `Sklearn`, `EDA`, `Feature Engineering` |
-| 📉 **Sales Dashboard** | Created a sales performance dashboard in Excel for monthly reporting | `Excel`, `Pivot`, `Dashboard` |
-| 📊 **Kaggle EDA Challenge** | Exploratory data analysis for beginner datasets on Kaggle | `Python`, `Seaborn`, `Pandas` |
+| 🧠 **Recruitment Prediction** | Built a predictive model to identify candidates most likely to pass screening using real-world hiring data | `Python`, `Pandas`, `Logistic Regression`, `Decision Tree`, `Feature Engineering` |
+| 🍕 **Pizza Price Prediction** | Regression model to estimate pizza prices based on ingredients and size | `Python`, `EDA`, `Seaborn`, `Scikit-Learn` |
+| 🚢 **Titanic Analysis Dashboard** | Interactive dashboard analyzing Titanic survival rates by demographics | `Looker Studio`, `Excel`, `Data Cleaning`, `Visualization` |
 
 ---
 
 ### 📫 How to Reach Me
 
-- 📩 Email: rayilentera@gmail.com  
+- 📩 Email: surya.rayilentera@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/rayisurya](https://linkedin.com/in/rayisurya)  
-- 🌍 Portfolio ()
+- 🌍 Portfolio (coming soon...)
 
 ---
 
 ### ❤️ Let's Connect & Collaborate!
 
 I'm open to internships, data-related projects, and collaboration on analytics challenges.  
-Let's learn and grow together in the world of data! 🚀  
+Let's learn and grow together in the world of data! 🚀
